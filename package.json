@@ -1,0 +1,12 @@
+{
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.1"
+  }
+}
